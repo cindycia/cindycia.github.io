@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuanfu Luo | Academic</title>
+    <link>/authors/yuanfu-luo/</link>
+      <atom:link href="/authors/yuanfu-luo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuanfu Luo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yuanfu Luo</title>
+      <link>/authors/yuanfu-luo/</link>
+    </image>
+    
+    <item>
+      <title>SUMMIT: A Simulator for Urban Driving in Massive Mixed Traffic</title>
+      <link>/publication/cai-2019-summit/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2019-summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LeTS-Drive: Driving in a Crowd by Learning from Tree Search</title>
+      <link>/publication/cai-2019-lets/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2019-lets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GAMMA: A General Agent Motion Prediction Model for Autonomous Driving</title>
+      <link>/publication/luo-2019-gamma/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/luo-2019-gamma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyP-DESPOT: A hybrid parallel algorithm for online planning under uncertainty</title>
+      <link>/publication/cai-2018-hyp/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2018-hyp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PORCA: Modeling and planning for autonomous driving among many pedestrians</title>
+      <link>/publication/luo-2018-porca/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/luo-2018-porca/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

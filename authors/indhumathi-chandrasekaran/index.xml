@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indhumathi Chandrasekaran | Academic</title>
+    <link>/authors/indhumathi-chandrasekaran/</link>
+      <atom:link href="/authors/indhumathi-chandrasekaran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Indhumathi Chandrasekaran</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Indhumathi Chandrasekaran</title>
+      <link>/authors/indhumathi-chandrasekaran/</link>
+    </image>
+    
+    <item>
+      <title>Automatic path planning for dual-crane lifting in complex environments using a prioritized multiobjective PGA</title>
+      <link>/publication/cai-2017-automatic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2017-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel genetic algorithm based automatic path planning for crane lifting in complex environments</title>
+      <link>/publication/cai-2016-parallel/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2016-parallel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

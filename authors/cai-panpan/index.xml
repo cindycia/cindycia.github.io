@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cai Panpan | Academic</title>
+    <link>/authors/cai-panpan/</link>
+      <atom:link href="/authors/cai-panpan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cai Panpan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2019 09:30:00 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Cai Panpan</title>
+      <link>/authors/cai-panpan/</link>
+    </image>
+    
+    <item>
+      <title>CS research week 2019 at SOC, NUS</title>
+      <link>/post/cs_research_week/</link>
+      <pubDate>Mon, 05 Aug 2019 09:30:00 +0800</pubDate>
+      <guid>/post/cs_research_week/</guid>
+      <description>&lt;p&gt;The research week aims to present excellent research that is being done in SoC, NUS. The program consists of keynote talks by faculty members along with conference style talks by students and poster sessions and panel discussions. I served as a committe member co-organizing the event.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LeTS-Drive presented at RSS 2019</title>
+      <link>/talk/rss-2019-letsdrive/</link>
+      <pubDate>Mon, 24 Jun 2019 09:00:00 +0800</pubDate>
+      <guid>/talk/rss-2019-letsdrive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyP-DESPOT presented at RSS 2018</title>
+      <link>/talk/rss-2018-hypdespot/</link>
+      <pubDate>Sat, 30 Jun 2018 15:00:00 +0800</pubDate>
+      <guid>/talk/rss-2018-hypdespot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

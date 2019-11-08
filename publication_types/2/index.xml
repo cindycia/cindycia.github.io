@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>PORCA: Modeling and planning for autonomous driving among many pedestrians</title>
+      <link>/publication/luo-2018-porca/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/luo-2018-porca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic path planning for dual-crane lifting in complex environments using a prioritized multiobjective PGA</title>
+      <link>/publication/cai-2017-automatic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2017-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel genetic algorithm based automatic path planning for crane lifting in complex environments</title>
+      <link>/publication/cai-2016-parallel/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2016-parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Approach to Design Rational Harmonic Surface over Rectangular or Triangular Domain</title>
+      <link>/publication/zhang-2011-new/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2011-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

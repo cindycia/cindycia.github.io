@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Academic</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2019 09:30:00 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Academic event</title>
+      <link>/tags/academic-event/</link>
+      <pubDate>Mon, 05 Aug 2019 09:30:00 +0800</pubDate>
+      <guid>/tags/academic-event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference talk</title>
+      <link>/tags/conference-talk/</link>
+      <pubDate>Mon, 24 Jun 2019 09:00:00 +0800</pubDate>
+      <guid>/tags/conference-talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

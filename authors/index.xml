@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>David Hsu</title>
+      <link>/authors/david-hsu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/david-hsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panpan Cai</title>
+      <link>/authors/panpan-cai/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/panpan-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiyuan Lee</title>
+      <link>/authors/yiyuan-lee/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yiyuan-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuanfu Luo</title>
+      <link>/authors/yuanfu-luo/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yuanfu-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cai Panpan</title>
+      <link>/authors/cai-panpan/</link>
+      <pubDate>Mon, 05 Aug 2019 09:30:00 +0800</pubDate>
+      <guid>/authors/cai-panpan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aseem Saxena</title>
+      <link>/authors/aseem-saxena/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/aseem-saxena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wee Sun Lee</title>
+      <link>/authors/wee-sun-lee/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/wee-sun-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aniket Bera</title>
+      <link>/authors/aniket-bera/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/aniket-bera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dinesh Manocha</title>
+      <link>/authors/dinesh-manocha/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/dinesh-manocha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indhumathi Chandrasekaran</title>
+      <link>/authors/indhumathi-chandrasekaran/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/indhumathi-chandrasekaran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianmin Zheng</title>
+      <link>/authors/jianmin-zheng/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/jianmin-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiyu Cai</title>
+      <link>/authors/yiyu-cai/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/yiyu-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chandrasekara Indhumathi</title>
+      <link>/authors/chandrasekara-indhumathi/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/chandrasekara-indhumathi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nadia M Thalmann</title>
+      <link>/authors/nadia-m-thalmann/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/nadia-m-thalmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peng Wong</title>
+      <link>/authors/peng-wong/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/peng-wong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teng Sam Lim</title>
+      <link>/authors/teng-sam-lim/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/teng-sam-lim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi Gong</title>
+      <link>/authors/yi-gong/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/yi-gong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guojin Wang</title>
+      <link>/authors/guojin-wang/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/guojin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juzheng Zhang</title>
+      <link>/authors/juzheng-zhang/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/juzheng-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Dr. Cai Panpan is posdoctoral research fellow working with Prof. David Hsu at the Department of Computer Science, National University of Singapore. Her research interests include robot motion planning, decision making, robot learning, parallel computing, and their applications to autonomous driving in crowded environments. She has been focusing on tackling large-scale decision making problems in robotics that involve uncertainties and long-term planning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

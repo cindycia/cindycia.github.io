@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Academic</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2019 09:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>LeTS-Drive presented at RSS 2019</title>
+      <link>/talk/rss-2019-letsdrive/</link>
+      <pubDate>Mon, 24 Jun 2019 09:00:00 +0800</pubDate>
+      <guid>/talk/rss-2019-letsdrive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyP-DESPOT presented at RSS 2018</title>
+      <link>/talk/rss-2018-hypdespot/</link>
+      <pubDate>Sat, 30 Jun 2018 15:00:00 +0800</pubDate>
+      <guid>/talk/rss-2018-hypdespot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

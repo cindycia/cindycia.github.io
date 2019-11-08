@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinesh Manocha | Academic</title>
+    <link>/authors/dinesh-manocha/</link>
+      <atom:link href="/authors/dinesh-manocha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dinesh Manocha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Dinesh Manocha</title>
+      <link>/authors/dinesh-manocha/</link>
+    </image>
+    
+    <item>
+      <title>PORCA: Modeling and planning for autonomous driving among many pedestrians</title>
+      <link>/publication/luo-2018-porca/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/luo-2018-porca/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

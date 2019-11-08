@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juzheng Zhang | Academic</title>
+    <link>/authors/juzheng-zhang/</link>
+      <atom:link href="/authors/juzheng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juzheng Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Juzheng Zhang</title>
+      <link>/authors/juzheng-zhang/</link>
+    </image>
+    
+    <item>
+      <title>A New Approach to Design Rational Harmonic Surface over Rectangular or Triangular Domain</title>
+      <link>/publication/zhang-2011-new/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2011-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

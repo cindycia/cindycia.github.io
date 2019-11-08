@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aniket Bera | Academic</title>
+    <link>/authors/aniket-bera/</link>
+      <atom:link href="/authors/aniket-bera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aniket Bera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Aniket Bera</title>
+      <link>/authors/aniket-bera/</link>
+    </image>
+    
+    <item>
+      <title>PORCA: Modeling and planning for autonomous driving among many pedestrians</title>
+      <link>/publication/luo-2018-porca/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/luo-2018-porca/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
