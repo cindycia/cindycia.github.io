@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniela Rus | Cai Panpan&#39;s Home Page</title>
+    <link>/authors/daniela-rus/</link>
+      <atom:link href="/authors/daniela-rus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniela Rus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 12:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Daniela Rus</title>
+      <link>/authors/daniela-rus/</link>
+    </image>
+    
+    <item>
+      <title>Context and Intention Aware Planning for Urban Driving</title>
+      <link>/publication/iros-2019-driving/</link>
+      <pubDate>Mon, 01 Apr 2019 12:00:00 +0800</pubDate>
+      <guid>/publication/iros-2019-driving/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
