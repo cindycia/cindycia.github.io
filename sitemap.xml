@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2020-06-01T09:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <loc>/authors/cai-panpan/</loc>
+    <lastmod>2020-06-01T09:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-06-01T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/conference-talk/</loc>
+    <lastmod>2020-06-01T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-06-01T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/icra-2020-summit/</loc>
+    <lastmod>2020-06-01T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-01T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,11 +83,6 @@
   </url>
   
   <url>
-    <loc>/authors/cai-panpan/</loc>
-    <lastmod>2019-08-08T17:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/cs_research_week/</loc>
     <lastmod>2019-08-08T17:30:00+08:00</lastmod>
   </url>
@@ -73,22 +93,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-08-08T17:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/conference-talk/</loc>
-    <lastmod>2019-06-24T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/rss-2019-letsdrive/</loc>
-    <lastmod>2019-06-24T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2019-06-24T09:00:00+08:00</lastmod>
   </url>
   

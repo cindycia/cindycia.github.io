@@ -5,12 +5,20 @@
     <link>/tags/conference-talk/</link>
       <atom:link href="/tags/conference-talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference talk</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2019 09:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 09:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Conference talk</title>
       <link>/tags/conference-talk/</link>
     </image>
+    
+    <item>
+      <title>SUMMIT presented at ICRA 2020</title>
+      <link>/talk/icra-2020-summit/</link>
+      <pubDate>Mon, 01 Jun 2020 09:00:00 +0800</pubDate>
+      <guid>/talk/icra-2020-summit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LeTS-Drive presented at RSS 2019</title>

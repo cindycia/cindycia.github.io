@@ -5,12 +5,20 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 09:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Cai Panpan</title>
+      <link>/authors/cai-panpan/</link>
+      <pubDate>Mon, 01 Jun 2020 09:00:00 +0800</pubDate>
+      <guid>/authors/cai-panpan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>David Hsu</title>
@@ -41,14 +49,6 @@
       <link>/authors/yuanfu-luo/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/yuanfu-luo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cai Panpan</title>
-      <link>/authors/cai-panpan/</link>
-      <pubDate>Mon, 05 Aug 2019 09:30:00 +0800</pubDate>
-      <guid>/authors/cai-panpan/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Cai Panpan&#39;s Home Page</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 09:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Cai Panpan&#39;s Home Page</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>SUMMIT presented at ICRA 2020</title>
+      <link>/talk/icra-2020-summit/</link>
+      <pubDate>Mon, 01 Jun 2020 09:00:00 +0800</pubDate>
+      <guid>/talk/icra-2020-summit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SUMMIT: A Simulator for Urban Driving in Massive Mixed Traffic</title>
