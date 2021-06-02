@@ -1,263 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/authors/</loc>
     <lastmod>2020-07-11T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/cai-panpan/</loc>
     <lastmod>2020-07-11T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2020-07-11T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/conference-talk/</loc>
     <lastmod>2020-07-11T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
     <lastmod>2020-07-11T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/rss-2020-pioneer/</loc>
     <lastmod>2020-07-11T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2020-07-11T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/icra-2020-summit/</loc>
     <lastmod>2020-06-01T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/1/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/david-hsu/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/panpan-cai/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/cai-2019-summit/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yiyuan-lee/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yuanfu-luo/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/academic-event/</loc>
     <lastmod>2019-08-08T17:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/cs_research_week/</loc>
     <lastmod>2019-08-08T17:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2019-08-08T17:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/rss-2019-letsdrive/</loc>
     <lastmod>2019-06-24T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/aseem-saxena/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/cai-2019-lets/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wee-sun-lee/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/iros-2019-driving/</loc>
     <lastmod>2019-04-01T12:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/daniela-rus/</loc>
     <lastmod>2019-04-01T12:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/malika-meghjani/</loc>
     <lastmod>2019-04-01T12:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/qi-heng-ho/</loc>
     <lastmod>2019-04-01T12:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/shashwat-verma/</loc>
     <lastmod>2019-04-01T12:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/luo-2019-gamma/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/rss-2018-hypdespot/</loc>
     <lastmod>2018-06-30T15:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/cai-2018-hyp/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/2/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/aniket-bera/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/dinesh-manocha/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/luo-2018-porca/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/cai-2017-automatic/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/indhumathi-chandrasekaran/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jianmin-zheng/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yiyu-cai/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/cai-2016-parallel/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/0/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/chandrasekara-indhumathi/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/cai-2016-method/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/nadia-m-thalmann/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/peng-wong/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/teng-sam-lim/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yi-gong/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/zhang-2011-new/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/guojin-wang/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/juzheng-zhang/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
   </url>
-  
 </urlset>
