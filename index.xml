@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Cai Panpan&#39;s Home Page</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2020 09:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Cai Panpan&#39;s Home Page</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>MAGIC: Learning Macro-Actions for Online POMDP Planning using Generator-Critic</title>
+      <link>/publication/lee-2021-magic/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/lee-2021-magic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Research talk at RSS pioneer 2020</title>
