@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/david-hsu/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/luocai-2022-gamma/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/panpan-cai/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/yiyuan-lee/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/yuanfu-luo/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/1/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/lee-2021-magic/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/panpan-cai/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/yiyuan-lee/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/cai-2019-summit/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/yuanfu-luo/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/cai-panpan/</loc>
@@ -89,17 +95,11 @@
     <loc>/authors/shashwat-verma/</loc>
     <lastmod>2019-04-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>/publication/luo-2019-gamma/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/talk/rss-2018-hypdespot/</loc>
     <lastmod>2018-06-30T15:00:00+08:00</lastmod>
   </url><url>
     <loc>/publication/cai-2018-hyp/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/aniket-bera/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>

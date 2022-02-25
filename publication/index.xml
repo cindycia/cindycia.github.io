@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>GAMMA: A General Agent Motion Model for Autonomous Driving</title>
+      <link>/publication/luocai-2022-gamma/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/luocai-2022-gamma/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MAGIC: Learning Macro-Actions for Online POMDP Planning using Generator-Critic</title>
@@ -41,14 +49,6 @@
       <link>/publication/iros-2019-driving/</link>
       <pubDate>Mon, 01 Apr 2019 12:00:00 +0800</pubDate>
       <guid>/publication/iros-2019-driving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GAMMA: A General Agent Motion Prediction Model for Autonomous Driving</title>
-      <link>/publication/luo-2019-gamma/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/luo-2019-gamma/</guid>
       <description></description>
     </item>
     
