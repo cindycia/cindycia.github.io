@@ -5,12 +5,20 @@
     <link>/authors/cai-panpan/</link>
       <atom:link href="/authors/cai-panpan/index.xml" rel="self" type="application/rss+xml" />
     <description>Cai Panpan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2020 09:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 May 2022 09:00:00 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Cai Panpan</title>
       <link>/authors/cai-panpan/</link>
     </image>
+    
+    <item>
+      <title>GAMMA presented at ICRA 2022</title>
+      <link>/talk/icra-2022-gamma/</link>
+      <pubDate>Mon, 23 May 2022 09:00:00 +0800</pubDate>
+      <guid>/talk/icra-2022-gamma/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Research talk at RSS pioneer 2020</title>
