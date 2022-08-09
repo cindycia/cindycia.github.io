@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2022-05-23T09:00:00+08:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/cai-panpan/</loc>
-    <lastmod>2022-05-23T09:00:00+08:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/cai-2022-lets-drive-tro/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/david-hsu/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/yuanfu-luo/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/cai-panpan/</loc>
     <lastmod>2022-05-23T09:00:00+08:00</lastmod>
   </url><url>
     <loc>/tags/conference-talk/</loc>
@@ -23,28 +41,13 @@
     <loc>/tags/</loc>
     <lastmod>2022-05-23T09:00:00+08:00</lastmod>
   </url><url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/david-hsu/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/luocai-2022-gamma/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/panpan-cai/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/yiyuan-lee/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/yuanfu-luo/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/1/</loc>
