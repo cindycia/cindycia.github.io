@@ -5,12 +5,20 @@
     <link>/authors/panpan-cai/</link>
       <atom:link href="/authors/panpan-cai/index.xml" rel="self" type="application/rss+xml" />
     <description>Panpan Cai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Panpan Cai</title>
       <link>/authors/panpan-cai/</link>
     </image>
+    
+    <item>
+      <title>Closing the Planning-Learning Loop with Application to Autonomous Driving</title>
+      <link>/publication/cai-2022-lets-drive-tro/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2022-lets-drive-tro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GAMMA: A General Agent Motion Model for Autonomous Driving</title>
