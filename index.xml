@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Cai Panpan&#39;s Home Page</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Cai Panpan&#39;s Home Page</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>LEADER: Learning Attention over Driving Behaviors for Planning under Uncertainty</title>
+      <link>/publication/cai-2022-leader-corl/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2022-leader-corl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Closing the Planning-Learning Loop with Application to Autonomous Driving</title>

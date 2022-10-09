@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Real-time planning under uncertainty is critical for robots operating in complex dynamic environments. Consider, for example, an autonomous robot vehicle driving in dense, unregulated urban traffic of cars, motorcycles, buses, etc.. The robot vehicle has to plan in both short and long terms, in order to interact with many traffic participants of uncertain intentions and drive effectively. Planning explicitly over a long time horizon, however, incurs prohibitive computational cost and is impractical under real-time constraints. To achieve real-time performance for large-scale planning, this work introduces a new algorithm Learning from Tree Search for Driving (LeTS-Drive), which integrates planning and learning in a closed loop, and applies it to autonomous driving in crowded urban traffic in simulation. Specifically, LeTS-Drive learns a policy and its value function from data provided by an online planner, which searches a sparsely-sampled belief tree; the online planner in turn uses the learned policy and value functions as heuristics to scale up its run-time performance for real-time robot control. These two steps are repeated to form a closed loop so that the planner and the learner inform each other and improve in synchrony. The algorithm learns on its own in a self-supervised manner, without human effort on explicit data labeling. Experimental results demonstrate that LeTS-Drive outperforms either planning or learning alone, as well as open-loop integration of planning and learning.">
+  <meta name="description" content="Uncertainty on human behaviors poses a significant challenge to autonomous driving in crowded urban environments. The partially observable Markov decision processes (POMDPs) offer a principled framework for planning under uncertainty, often leveraging Monte Carlo sampling to achieve online performance for complex tasks. However, sampling also raises safety concerns by potentially missing critical events. To address this, we propose a new algorithm, LEarning Attention over Driving bEhavioRs (LEADER), that learns to attend to critical human behaviors during planning. LEADER learns a neural network generator to provide attention over human behaviors in real-time situations. It integrates the attention into a belief-space planner, using importance sampling to bias reasoning towards critical events. To train the algorithm, we let the attention generator and the planner form a min-max game. By solving the min-max game, LEADER learns to perform risk-aware planning without human labeling.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/cai-2022-lets-drive-tro/">
+  <link rel="alternate" hreflang="en-us" href="/publication/cai-2022-leader-corl/">
 
   
 
@@ -100,7 +100,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/cai-2022-lets-drive-tro/">
+  <link rel="canonical" href="/publication/cai-2022-leader-corl/">
 
   
   
@@ -112,15 +112,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Cai Panpan&#39;s Home Page">
-  <meta property="og:url" content="/publication/cai-2022-lets-drive-tro/">
-  <meta property="og:title" content="Closing the Planning-Learning Loop with Application to Autonomous Driving | Cai Panpan&#39;s Home Page">
-  <meta property="og:description" content="Real-time planning under uncertainty is critical for robots operating in complex dynamic environments. Consider, for example, an autonomous robot vehicle driving in dense, unregulated urban traffic of cars, motorcycles, buses, etc.. The robot vehicle has to plan in both short and long terms, in order to interact with many traffic participants of uncertain intentions and drive effectively. Planning explicitly over a long time horizon, however, incurs prohibitive computational cost and is impractical under real-time constraints. To achieve real-time performance for large-scale planning, this work introduces a new algorithm Learning from Tree Search for Driving (LeTS-Drive), which integrates planning and learning in a closed loop, and applies it to autonomous driving in crowded urban traffic in simulation. Specifically, LeTS-Drive learns a policy and its value function from data provided by an online planner, which searches a sparsely-sampled belief tree; the online planner in turn uses the learned policy and value functions as heuristics to scale up its run-time performance for real-time robot control. These two steps are repeated to form a closed loop so that the planner and the learner inform each other and improve in synchrony. The algorithm learns on its own in a self-supervised manner, without human effort on explicit data labeling. Experimental results demonstrate that LeTS-Drive outperforms either planning or learning alone, as well as open-loop integration of planning and learning."><meta property="og:image" content="/publication/cai-2022-lets-drive-tro/featured.png">
-  <meta property="twitter:image" content="/publication/cai-2022-lets-drive-tro/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/cai-2022-leader-corl/">
+  <meta property="og:title" content="LEADER: Learning Attention over Driving Behaviors for Planning under Uncertainty | Cai Panpan&#39;s Home Page">
+  <meta property="og:description" content="Uncertainty on human behaviors poses a significant challenge to autonomous driving in crowded urban environments. The partially observable Markov decision processes (POMDPs) offer a principled framework for planning under uncertainty, often leveraging Monte Carlo sampling to achieve online performance for complex tasks. However, sampling also raises safety concerns by potentially missing critical events. To address this, we propose a new algorithm, LEarning Attention over Driving bEhavioRs (LEADER), that learns to attend to critical human behaviors during planning. LEADER learns a neural network generator to provide attention over human behaviors in real-time situations. It integrates the attention into a belief-space planner, using importance sampling to bias reasoning towards critical events. To train the algorithm, we let the attention generator and the planner form a min-max game. By solving the min-max game, LEADER learns to perform risk-aware planning without human labeling."><meta property="og:image" content="/publication/cai-2022-leader-corl/featured.png">
+  <meta property="twitter:image" content="/publication/cai-2022-leader-corl/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2022-08-09T15:46:42&#43;08:00">
     
-    <meta property="article:modified_time" content="2022-08-09T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-12-14T00:00:00&#43;00:00">
   
 
   
@@ -144,20 +144,20 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/cai-2022-lets-drive-tro/"
+    "@id": "/publication/cai-2022-leader-corl/"
   },
-  "headline": "Closing the Planning-Learning Loop with Application to Autonomous Driving",
+  "headline": "LEADER: Learning Attention over Driving Behaviors for Planning under Uncertainty",
   
   "image": [
-    "/publication/cai-2022-lets-drive-tro/featured.png"
+    "/publication/cai-2022-leader-corl/featured.png"
   ],
   
   "datePublished": "2022-08-09T15:46:42+08:00",
-  "dateModified": "2022-08-09T00:00:00Z",
+  "dateModified": "2022-12-14T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Panpan Cai"
+    "name": "Mohamad H. Danesh"
   },
   
   "publisher": {
@@ -168,7 +168,7 @@
       "url": "/img/icon-512.png"
     }
   },
-  "description": "Real-time planning under uncertainty is critical for robots operating in complex dynamic environments. Consider, for example, an autonomous robot vehicle driving in dense, unregulated urban traffic of cars, motorcycles, buses, etc.. The robot vehicle has to plan in both short and long terms, in order to interact with many traffic participants of uncertain intentions and drive effectively. Planning explicitly over a long time horizon, however, incurs prohibitive computational cost and is impractical under real-time constraints. To achieve real-time performance for large-scale planning, this work introduces a new algorithm Learning from Tree Search for Driving (LeTS-Drive), which integrates planning and learning in a closed loop, and applies it to autonomous driving in crowded urban traffic in simulation. Specifically, LeTS-Drive learns a policy and its value function from data provided by an online planner, which searches a sparsely-sampled belief tree; the online planner in turn uses the learned policy and value functions as heuristics to scale up its run-time performance for real-time robot control. These two steps are repeated to form a closed loop so that the planner and the learner inform each other and improve in synchrony. The algorithm learns on its own in a self-supervised manner, without human effort on explicit data labeling. Experimental results demonstrate that LeTS-Drive outperforms either planning or learning alone, as well as open-loop integration of planning and learning."
+  "description": "Uncertainty on human behaviors poses a significant challenge to autonomous driving in crowded urban environments. The partially observable Markov decision processes (POMDPs) offer a principled framework for planning under uncertainty, often leveraging Monte Carlo sampling to achieve online performance for complex tasks. However, sampling also raises safety concerns by potentially missing critical events. To address this, we propose a new algorithm, LEarning Attention over Driving bEhavioRs (LEADER), that learns to attend to critical human behaviors during planning. LEADER learns a neural network generator to provide attention over human behaviors in real-time situations. It integrates the attention into a belief-space planner, using importance sampling to bias reasoning towards critical events. To train the algorithm, we let the attention generator and the planner form a min-max game. By solving the min-max game, LEADER learns to perform risk-aware planning without human labeling."
 }
 </script>
 
@@ -186,7 +186,7 @@
 
 
 
-  <title>Closing the Planning-Learning Loop with Application to Autonomous Driving | Cai Panpan&#39;s Home Page</title>
+  <title>LEADER: Learning Attention over Driving Behaviors for Planning under Uncertainty | Cai Panpan&#39;s Home Page</title>
 
 </head>
 
@@ -463,7 +463,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Closing the Planning-Learning Loop with Application to Autonomous Driving</h1>
+  <h1>LEADER: Learning Attention over Driving Behaviors for Planning under Uncertainty</h1>
 
   
 
@@ -482,7 +482,7 @@
 
 
   
-  <span><a href="/authors/panpan-cai/">Panpan Cai</a></span>, <span><a href="/authors/david-hsu/">David Hsu</a></span>
+  <span><a href="/authors/mohamad-h.-danesh/">Mohamad H. Danesh</a></span>, <span><a href="/authors/panpan-cai/">Panpan Cai</a></span>, <span><a href="/authors/david-hsu/">David Hsu</a></span>
 
   </div>
   
@@ -494,7 +494,7 @@
     
       
     
-    August 2022
+    December 2022
   </span>
   
 
@@ -506,7 +506,7 @@
   
   
   <span class="middot-divider"></span>
-  <a href="/publication/cai-2022-lets-drive-tro/#disqus_thread"></a>
+  <a href="/publication/cai-2022-leader-corl/#disqus_thread"></a>
   
 
   
@@ -547,14 +547,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2101.03834" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2209.11422" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/cai-2022-lets-drive-tro/cite.bib">
+        data-filename="/publication/cai-2022-leader-corl/cite.bib">
   Cite
 </button>
 
@@ -578,9 +578,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 436px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 314px;">
   <div style="position: relative">
-    <img src="/publication/cai-2022-lets-drive-tro/featured_hu248c1bccc6c9160a9c98773cbb8c37e1_111338_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    <img src="/publication/cai-2022-leader-corl/featured_hu3243de0687d275bfefbbcd206cd3007d_1289722_720x0_resize_lanczos_3.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -591,7 +591,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Real-time planning under uncertainty is critical for robots operating in complex dynamic environments. Consider, for example, an autonomous robot vehicle driving in dense, unregulated urban traffic of cars, motorcycles, buses, etc.. The robot vehicle has to plan in both short and long terms, in order to interact with many traffic participants of uncertain intentions and drive effectively. Planning explicitly over a long time horizon, however, incurs prohibitive computational cost and is impractical under real-time constraints. To achieve real-time performance for large-scale planning, this work introduces a new algorithm Learning from Tree Search for Driving (LeTS-Drive), which integrates planning and learning in a closed loop, and applies it to autonomous driving in crowded urban traffic in simulation. Specifically, LeTS-Drive learns a policy and its value function from data provided by an online planner, which searches a sparsely-sampled belief tree; the online planner in turn uses the learned policy and value functions as heuristics to scale up its run-time performance for real-time robot control. These two steps are repeated to form a closed loop so that the planner and the learner inform each other and improve in synchrony. The algorithm learns on its own in a self-supervised manner, without human effort on explicit data labeling. Experimental results demonstrate that LeTS-Drive outperforms either planning or learning alone, as well as open-loop integration of planning and learning.</p>
+    <p class="pub-abstract">Uncertainty on human behaviors poses a significant challenge to autonomous driving in crowded urban environments. The partially observable Markov decision processes (POMDPs) offer a principled framework for planning under uncertainty, often leveraging Monte Carlo sampling to achieve online performance for complex tasks. However, sampling also raises safety concerns by potentially missing critical events. To address this, we propose a new algorithm, LEarning Attention over Driving bEhavioRs (LEADER), that learns to attend to critical human behaviors during planning. LEADER learns a neural network generator to provide attention over human behaviors in real-time situations. It integrates the attention into a belief-space planner, using importance sampling to bias reasoning towards critical events. To train the algorithm, we let the attention generator and the planner form a min-max game. By solving the min-max game, LEADER learns to perform risk-aware planning without human labeling.</p>
     
 
     
@@ -603,8 +603,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#2">
-              Journal article
+            <a href="/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -621,7 +621,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>To appear in IEEE Transactions on Robotics</em></div>
+          <div class="col-12 col-md-9"><em>Conference on Robot Learning (CORL)</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -652,7 +652,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/cai-2022-lets-drive-tro/&amp;text=Closing%20the%20Planning-Learning%20Loop%20with%20Application%20to%20Autonomous%20Driving" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/cai-2022-leader-corl/&amp;text=LEADER:%20Learning%20Attention%20over%20Driving%20Behaviors%20for%20Planning%20under%20Uncertainty" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -665,7 +665,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/cai-2022-lets-drive-tro/&amp;t=Closing%20the%20Planning-Learning%20Loop%20with%20Application%20to%20Autonomous%20Driving" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/cai-2022-leader-corl/&amp;t=LEADER:%20Learning%20Attention%20over%20Driving%20Behaviors%20for%20Planning%20under%20Uncertainty" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -678,7 +678,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Closing%20the%20Planning-Learning%20Loop%20with%20Application%20to%20Autonomous%20Driving&amp;body=/publication/cai-2022-lets-drive-tro/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=LEADER:%20Learning%20Attention%20over%20Driving%20Behaviors%20for%20Planning%20under%20Uncertainty&amp;body=/publication/cai-2022-leader-corl/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -691,7 +691,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/cai-2022-lets-drive-tro/&amp;title=Closing%20the%20Planning-Learning%20Loop%20with%20Application%20to%20Autonomous%20Driving" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/cai-2022-leader-corl/&amp;title=LEADER:%20Learning%20Attention%20over%20Driving%20Behaviors%20for%20Planning%20under%20Uncertainty" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -704,7 +704,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Closing%20the%20Planning-Learning%20Loop%20with%20Application%20to%20Autonomous%20Driving%20/publication/cai-2022-lets-drive-tro/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=LEADER:%20Learning%20Attention%20over%20Driving%20Behaviors%20for%20Planning%20under%20Uncertainty%20/publication/cai-2022-leader-corl/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -717,7 +717,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/cai-2022-lets-drive-tro/&amp;title=Closing%20the%20Planning-Learning%20Loop%20with%20Application%20to%20Autonomous%20Driving" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/cai-2022-leader-corl/&amp;title=LEADER:%20Learning%20Attention%20over%20Driving%20Behaviors%20for%20Planning%20under%20Uncertainty" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -755,7 +755,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/panpan-cai/"></a></h5>
+      <h5 class="card-title"><a href="/authors/mohamad-h.-danesh/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
