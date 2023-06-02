@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panpan Cai* (corresponding author) | Cai Panpan&#39;s Home Page</title>
+    <link>/authors/panpan-cai-corresponding-author/</link>
+      <atom:link href="/authors/panpan-cai-corresponding-author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Panpan Cai* (corresponding author)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Panpan Cai* (corresponding author)</title>
+      <link>/authors/panpan-cai-corresponding-author/</link>
+    </image>
+    
+    <item>
+      <title>LEADER: Learning Attention over Driving Behaviors for Planning under Uncertainty</title>
+      <link>/publication/cai-2022-leader-corl/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2022-leader-corl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
