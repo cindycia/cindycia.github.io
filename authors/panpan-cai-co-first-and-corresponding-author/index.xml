@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panpan Cai* (co-first and corresponding author) | Cai Panpan&#39;s Home Page</title>
+    <link>/authors/panpan-cai-co-first-and-corresponding-author/</link>
+      <atom:link href="/authors/panpan-cai-co-first-and-corresponding-author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Panpan Cai* (co-first and corresponding author)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Panpan Cai* (co-first and corresponding author)</title>
+      <link>/authors/panpan-cai-co-first-and-corresponding-author/</link>
+    </image>
+    
+    <item>
+      <title>GAMMA: A General Agent Motion Model for Autonomous Driving</title>
+      <link>/publication/luocai-2022-gamma/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/luocai-2022-gamma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
