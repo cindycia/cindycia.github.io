@@ -103,9 +103,37 @@
 <li data-target=#slider data-slide-to=6></li>
 <li data-target=#slider data-slide-to=7></li>
 <li data-target=#slider data-slide-to=8></li>
+<li data-target=#slider data-slide-to=9></li>
+<li data-target=#slider data-slide-to=10></li>
 </ol>
 <div class=carousel-inner>
-<div class="wg-hero dark carousel-item active" style=height:330px;background-color:#557>
+<div class="wg-hero dark carousel-item active" style=height:330px;background-color:#565>
+<div class=container style=text-align:left>
+<h1 class=hero-title>
+3 papers at NeurIPS 2025
+</h1>
+<p class=hero-lead>
+<a href=https://arxiv.org/abs/2507.21545>UniDomain</a>, <a href=https://arxiv.org/abs/2506.02860>Tru-POMDP</a>, and <a href=https://arxiv.org/abs/2505.22159>ForceVLA</a> accepted at NeurIPS 2025.
+</p>
+<p>
+<a href=#publications class="btn btn-light btn-lg">Publications</a>
+</p>
+</div>
+</div>
+<div class="wg-hero dark carousel-item" style=height:330px;background-color:#665>
+<div class=container style=text-align:left>
+<h1 class=hero-title>
+2 papers accepted at RSS 2026
+</h1>
+<p class=hero-lead>
+<a href=https://arxiv.org/abs/2602.08602>MINT</a> and <a href=https://arxiv.org/abs/2602.08334>Vec-QMDP</a> accepted at RSS 2026.
+</p>
+<p>
+<a href=#publications class="btn btn-light btn-lg">Publications</a>
+</p>
+</div>
+</div>
+<div class="wg-hero dark carousel-item" style=height:330px;background-color:#557>
 <div class=container style=text-align:left>
 <h1 class=hero-title>
 Editor for T-RO
@@ -502,6 +530,63 @@ Jun 2011
 <h1>Selected Publications</h1>
 </div>
 <div class="col-12 col-lg-8">
+<div class=card-simple>
+<div class=article-metadata>
+<div>
+<span><a href=/authors/renming-huang/>Renming Huang</a></span>, <span><a href=/authors/chendong-zeng/>Chendong Zeng</a></span>, <span><a href=/authors/wenjing-tang/>Wenjing Tang</a></span>, <span><a href=/authors/jintian-cai/>Jintian Cai</a></span>, <span><a href=/authors/cewu-lu/>Cewu Lu</a></span>, <span><a href=/authors/panpan-cai/>Panpan Cai</a></span>
+</div>
+<span class=article-date>
+February 2026
+</span>
+<span class=middot-divider></span>
+<span class=pub-publication>
+<em>Robotics: Science and Systems (RSS)</em>
+</span>
+<span class=middot-divider></span>
+<a href=/publication/huang-2026-mint/#disqus_thread></a>
+</div>
+<h3 class="article-title mb-1 mt-3">
+<a href=/publication/huang-2026-mint/>Mimic Intent, Not Just Trajectories</a>
+</h3>
+<div class=article-style>
+<p>While imitation learning (IL) has achieved impressive success in dexterous manipulation through generative modeling and pretraining, state-of-the-art approaches like Vision-Language-Action (VLA) models still struggle with adaptation to environmental changes and skill transfer. We argue this stems from mimicking raw trajectories without understanding the underlying intent. To address this, we propose explicitly disentangling behavior intent from execution details in end-2-end IL: &ldquo;Mimic Intent, Not just Trajectories&rdquo; (MINT). We achieve this via multi-scale frequency-space tokenization, which enforces a spectral decomposition of action chunk representation. We learn action tokens with a multi-scale coarse-to-fine structure, and force the coarsest token to capture low-frequency global structure and finer tokens to encode high-frequency details. This yields an abstract Intent token that facilitates planning and transfer, and multi-scale Execution tokens that enable precise adaptation to environmental dynamics. Building on this hierarchy, our policy generates trajectories through next-scale autoregression, performing progressive intent-to-execution reasoning, thus boosting learning efficiency and generalization. Crucially, this disentanglement enables one-shot transfer of skills, by simply injecting the Intent token from a demonstration into the autoregressive generation process. Experiments on several manipulation benchmarks and on a real robot demonstrate state-of-the-art success rates, superior inference efficiency, robust generalization against disturbances, and effective one-shot transfer.</p>
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://arxiv.org/abs/2602.08602 target=_blank rel=noopener>
+PDF
+</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://renming-huang.github.io/MINT target=_blank rel=noopener>
+Project
+</a>
+</div>
+</div>
+<div class=card-simple>
+<div class=article-metadata>
+<div>
+<span><a href=/authors/xuanjin-jin/>Xuanjin Jin</a></span>, <span><a href=/authors/yanxin-dong/>Yanxin Dong</a></span>, <span><a href=/authors/bin-sun/>Bin Sun</a></span>, <span><a href=/authors/huan-xu/>Huan Xu</a></span>, <span><a href=/authors/zhihui-hao/>Zhihui Hao</a></span>, <span><a href=/authors/xianpeng-lang/>XianPeng Lang</a></span>, <span><a href=/authors/panpan-cai/>Panpan Cai</a></span>
+</div>
+<span class=article-date>
+February 2026
+</span>
+<span class=middot-divider></span>
+<span class=pub-publication>
+<em>Robotics: Science and Systems (RSS)</em>
+</span>
+<span class=middot-divider></span>
+<a href=/publication/jin-2026-vec-qmdp/#disqus_thread></a>
+</div>
+<h3 class="article-title mb-1 mt-3">
+<a href=/publication/jin-2026-vec-qmdp/>Vec-QMDP: Vectorized POMDP Planning on CPUs for Real-Time Autonomous Driving</a>
+</h3>
+<div class=article-style>
+<p>Planning under uncertainty for real-world robotics tasks, such as autonomous driving, requires reasoning in enormous high-dimensional belief spaces, rendering the problem computationally intensive. While parallelization offers scalability, existing hybrid CPU-GPU solvers face critical bottlenecks due to host-device synchronization latency and branch divergence on SIMT architectures, limiting their utility for real-time planning and hindering real-robot deployment. We present Vec-QMDP, a CPU-native parallel planner that aligns POMDP search with modern CPUs' SIMD architecture, achieving 227x-1073x speedup over state-of-the-art serial planners. Vec-QMDP adopts a Data-Oriented Design (DOD), refactoring scattered, pointer-based data structures into contiguous, cache-efficient memory layouts. We further introduce a hierarchical parallelism scheme: distributing sub-trees across independent CPU cores and SIMD lanes, enabling fully vectorized tree expansion and collision checking. Efficiency is maximized with the help of UCB load balancing across trees and a vectorized STR-tree for coarse-level collision checking. Evaluated on large-scale autonomous driving benchmarks, Vec-QMDP achieves state-of-the-art planning performance with millisecond-level latency, establishing CPUs as a high-performance computing platform for large-scale planning under uncertainty.</p>
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://arxiv.org/abs/2602.08334 target=_blank rel=noopener>
+PDF
+</a>
+</div>
+</div>
 <div class=card-simple>
 <div class=article-metadata>
 <div>
@@ -1115,7 +1200,7 @@ PDF
 </span>
 (2026).
 <a href=/publication/huang-2026-mint/>Mimic Intent, Not Just Trajectories</a>.
-<em>arXiv preprint</em>.
+<em>Robotics: Science and Systems (RSS)</em>.
 <p>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://arxiv.org/abs/2602.08602 target=_blank rel=noopener>
 PDF
@@ -1146,7 +1231,7 @@ PDF
 </span>
 (2026).
 <a href=/publication/jin-2026-vec-qmdp/>Vec-QMDP: Vectorized POMDP Planning on CPUs for Real-Time Autonomous Driving</a>.
-<em>arXiv preprint</em>.
+<em>Robotics: Science and Systems (RSS)</em>.
 <p>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://arxiv.org/abs/2602.08334 target=_blank rel=noopener>
 PDF
